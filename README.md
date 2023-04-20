@@ -1,6 +1,6 @@
 ![1500x500](https://user-images.githubusercontent.com/81825476/233440429-e98b317a-d726-4875-8116-f6856427921f.jpg)
 
-## Hi, I'm Lucy 👋 (she/her)
+## Hi, I'm Lucy 👋
 
 ## 🔭 I’m currently ...
 - an [AHRC](https://twitter.com/ahrcpress)-funded PhD researcher at the University of Glasgow ([Archaeology](https://twitter.com/UofGArchaeo) + [Computing Science](https://twitter.com/GlasgowCS)) and [Historic Environment Scotland](https://twitter.com/HistEnvScot)
