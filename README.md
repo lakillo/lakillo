@@ -7,7 +7,7 @@
 - researching the impacts of machine learning and computer vision on workflows for archaeological survey (aka finding archaeological objects in remote sensing data + in the field)
 
 ## 🌱 I’m learning ...
-- machine learning system design
+- how to design + code machine learning systems/products
 - how to turn research outputs into useable open source tools as an Enrichment Community Award student at [the Alan Turing Institute](https://twitter.com/turinginst)
 
 ## ⚡ I’m looking to collaborate on ...
