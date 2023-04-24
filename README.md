@@ -14,7 +14,10 @@
 - machine learning tools for archaeology
 
 ## 🛠️ My projects ...
-- 🚧 under construction
+- [weather-datascience](https://github.com/lakillo/weather-datascience): a data science project exploring the relationship between weather, geographic location and happiness in the UK. Uses K-means clustering, K-nearest neighbours and linear regression. 
+- [rockart-textanalysis](https://github.com/lakillo/rockart-textanalysis): a text analysis program to explore online content about prehistoric rock art. Uses web scraping and parsing, text processing, sentiment analysis and visualisation. 
+- [Relief Visualization Toolbox](https://github.com/EarthObservation/RVT_py): RVT is a raster elevation model visualisation tool. I contributed new content to the documentation and edited existing content.
+- [Archaeological Feature Detector](https://fullstackdeeplearning.com/course/2022/project-showcase/#archaeological-feature-detector): web app developed as part of a team for [Full Stack Deep Learning 2022](https://fullstackdeeplearning.com/course/2022/). I worked on the UX and front end, as well as providing domain expertise to my machine learning development colleagues.
 
 ## 🧰 Languages and Tools ...
 <div>
