@@ -11,7 +11,7 @@
 - how to turn research outputs into useable open source tools as an Enrichment Community Award student at [the Alan Turing Institute](https://twitter.com/turinginst)
 
 ## ⚡ I’m looking to collaborate on ...
-- machine learning tools for archaeology
+- machine learning tools for archaeology and geospatial
 
 ## 🛠️ My projects on GitHub ...
 - [weather-datascience](https://github.com/lakillo/weather-datascience): a data science project exploring the relationship between weather, geographic location and happiness in the UK. Uses K-means clustering, K-nearest neighbours and linear regression. 
