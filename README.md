@@ -9,6 +9,7 @@
 ## 🌱 I’m learning ...
 - how to design + code machine learning systems/products
 - how to turn research outputs into useable open source tools as an Enrichment Community Award student at [the Alan Turing Institute](https://twitter.com/turinginst)
+- the [Fundamentals of Machine Learning for Earth Science](https://github.com/lakillo/ARSET_ML_Fundamentals) from the [NASA Applied Remote Sensing Training Programme](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset)
 
 ## ⚡ I’m looking to collaborate on ...
 - machine learning tools for archaeology and geospatial
