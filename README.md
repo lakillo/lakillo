@@ -3,7 +3,7 @@
 ## hi, I'm Lucy 👋
 
 ## ⚙️ I'm currently ...
-- A Graduate Environmental Data Scientist at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), which is part of [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx#)—the UK’s National Space
+- A Graduate Environmental Data Scientist at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk) which is part of [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx#)—the UK’s National Space
 Laboratory
 - I'm also in the final stage of an Arts and Humanities Research Council-funded PhD at the University of Glasgow and Historic Environment Scotland. My PhD explored the automation of large-area archaeological survey for heritage management using a sociotechnical perspective informed by decision-making theory
 
