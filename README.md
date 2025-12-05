@@ -1,16 +1,13 @@
-![1500x500](https://user-images.githubusercontent.com/81825476/233440429-e98b317a-d726-4875-8116-f6856427921f.jpg)
+<!---![1500x500](https://user-images.githubusercontent.com/81825476/233440429-e98b317a-d726-4875-8116-f6856427921f.jpg)--->
 
 ## hi, I'm Lucy 👋
 
-## 🔭 I'm currently ...
-- an [AHRC](https://twitter.com/ahrcpress)-funded PhD researcher at the University of Glasgow ([Archaeology](https://twitter.com/UofGArchaeo) + [Computing Science](https://twitter.com/GlasgowCS)) and [Historic Environment Scotland](https://twitter.com/HistEnvScot)
-- researching the impacts of machine learning and computer vision on workflows for archaeological survey (aka finding archaeological objects in remote sensing data + in the field)
+## ⚙️ I'm currently ...
+- A Graduate Environmental Data Scientist at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), part of [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx#)—the UK's national laboratory advancing the understanding​ of space and our environment for the benefit of all
+- I'm also in the final stage of an [AHRC](https://twitter.com/ahrcpress)-funded PhD at the University of Glasgow ([Archaeology](https://twitter.com/UofGArchaeo) + [Computing Science](https://twitter.com/GlasgowCS)) and [Historic Environment Scotland](https://twitter.com/HistEnvScot). My PhD explored the automation of large-area archaeological survey for heritage management using a sociotechnical perspective informed by decision-making theory
 
-## 🌱 I'm learning ...
-- how to design + build machine learning systems
-
-## ⚡ I'm looking to collaborate on ...
-- machine learning tools for archaeology, remote sensing, earth observation
+## 🛰️ I'm working on ...
+- user-centred data services and machine learning tools for remote sensing and earth observation
 
 <!---## 🛠️ my projects on GitHub ...--->
 <!---- [weather-datascience](https://github.com/lakillo/weather-datascience): a data science project exploring the relationship between weather, geographic location and happiness in the UK. Uses K-means clustering, K-nearest neighbours and linear regression.---> 
