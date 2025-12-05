@@ -4,7 +4,7 @@
 
 ## ⚙️ I'm currently ...
 - A Graduate Environmental Data Scientist at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), part of [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx#)—the UK's national laboratory advancing the understanding​ of space and our environment for the benefit of all
-- I'm also in the final stage of an [AHRC](https://twitter.com/ahrcpress)-funded PhD at the University of Glasgow ([Archaeology](https://twitter.com/UofGArchaeo) + [Computing Science](https://twitter.com/GlasgowCS)) and [Historic Environment Scotland](https://twitter.com/HistEnvScot). My PhD explored the automation of large-area archaeological survey for heritage management using a sociotechnical perspective informed by decision-making theory
+- I'm also in the final stage of an Arts and Humanities Research Council-funded PhD at the University of Glasgow and Historic Environment Scotland. My PhD explored the automation of large-area archaeological survey for heritage management using a sociotechnical perspective informed by decision-making theory
 
 ## 🛰️ I'm working on ...
 - user-centred data services and machine learning tools for remote sensing and earth observation
